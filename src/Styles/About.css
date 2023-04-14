@@ -1,0 +1,26 @@
+.about_main_container {
+    margin-left: 130px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.about_content {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 35px;
+    width: 600px;
+    margin-bottom: 30px;
+}
+
+.about_redirect {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    color: #FF247D;
+}
