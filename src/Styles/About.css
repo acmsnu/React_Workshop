@@ -24,3 +24,9 @@
     font-size: 27px;
     color: #FF247D;
 }
+
+@media (min-width : 200px) and (max-width : 1000px) {
+    .about_main_container {
+        display: none;
+    }
+}
