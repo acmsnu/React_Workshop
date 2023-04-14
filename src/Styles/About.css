@@ -27,6 +27,14 @@
 
 @media (min-width : 200px) and (max-width : 1000px) {
     .about_main_container {
-        display: none;
+        margin-left: 20px;
+    }
+    .about_content {
+        font-size: 25px;
+        line-height: 25px;
+        width: 300px;
+    }
+    .about_redirect {
+        font-size: 20px;
     }
 }

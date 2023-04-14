@@ -48,7 +48,19 @@
     border-top-left-radius: 10px;
 }
 @media (min-width : 200px) and (max-width : 1000px) {
-    .home_main_container {
-        display: none;
+    .home_button {
+        width: 200px;
+        font-size: 15px;
+    }
+    .home_heading {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .home_background {
+        height: 25vw;
+        margin-top: 92vw;
+    }
+    .home_image {
+        width: 80%;
     }
 }
