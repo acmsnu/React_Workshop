@@ -1,0 +1,49 @@
+.home_main_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.home_button {
+    border: 1px solid black;
+    width: 230px;
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+.home_button > p {
+    margin: 10px;
+}
+
+.home_heading {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 113.4px;
+    line-height: 102px;
+}
+
+.home_heading>p {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.business {
+    color: #FF247D;
+}
+
+.home_background {
+    width: 100%;
+    background-color: #FF247D;
+    height: 40vh;
+    position: absolute;
+    margin-top: 92vh;
+}
+
+.home_image {
+    position: relative;
+    width: 60%;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
